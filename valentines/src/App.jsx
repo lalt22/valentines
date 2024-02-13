@@ -30,7 +30,7 @@ function App() {
         <div className='yes-wrapper'>
           <h1>I knew it... u simp</h1>
           <h3>just kidding &lt;3 I love you more than anything Godfrey</h3>
-          <p>please be my valentine for the rest of our lives thank you &lt;3</p>
+          <p>please be my valentine for the rest of our lives thank you &lt;3 thank you for being the most wonderful person in the world and for making my year so much better. i wouldnt have ever been able to make and send you this silly little website without your support and your love. im so in love with you and i cant wait to spend my whole life with you</p>
 
         </div>
         
